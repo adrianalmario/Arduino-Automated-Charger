@@ -3,7 +3,7 @@
 
 const char* ssid = "2MLTINC";  //wifi
 const char* password = "ThankYouForAsking!"; //wifipassword
-const char* serverAddress = "192.168.5.234"; // wifiserver  Ipv4
+const char* serverAddress = "192.168.5.235"; // wifiserver  Ipv4
 const int serverPort = 443; // serverlist
 
 #define relay D2 //ESP8266 output pin
