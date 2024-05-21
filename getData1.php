@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "battery_status_db";
+$dbname = "batt_life_db";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
